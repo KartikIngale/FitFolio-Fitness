@@ -1,1 +1,1 @@
-# FitFolio-Fitness
+•	A fitness website built using React provides users with an engaging and interactive platform to track their fitness goals, access workout plans, monitor progress, and gain insights into their health and wellness journey.
